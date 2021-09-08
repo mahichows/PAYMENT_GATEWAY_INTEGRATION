@@ -1,2 +1,10 @@
-# PAYMENT_GATEWAY_INTEGRATION
-Payment Gateway Integration with PHP using Razorpay |The Sparks Foundation| This is the mini project which shows how to integrate payments console into the website using PHP. Razorpay is used as test mode API button used in the website for providing various kinds of payment options with the use of test mode button of Razorpay, integration is done in the code. The websIte provides easy way of accepting donations from the people.
+# Payment-Gateway-Integration
+Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
+
+For demo card use
+
+Card No:- 2358 7657 6657
+
+cvv:- Any
+
+Validity:- Any
